@@ -1,0 +1,41 @@
+/*
+body {
+	background-color: #5D554A;
+}*/
+#videoprincipal {
+	position: fixed;
+	width: 105%;
+	height: 129%;
+	margin-left: -80px;
+	margin-top: -45px;
+}
+
+.contenedor .icono.icon-arrow-right {
+	font-size: 38px;
+	color: rgba(249,249,249,1.00);
+	width: 107%;
+	height: 135%;
+}
+.contenedor {
+	margin-top: 40%;
+	margin-left: 87%;
+	position: fixed;
+}
+.contenedor .icono.icon-circle-right {
+	color: rgba(255,255,255,1.00);
+	font-size: 40px;
+	text-decoration: none;
+}
+
+@media (max-width:720px){
+	
+body {
+	background-color: #5D554A;
+}
+	
+#videoprincipal {
+	width: 95%;
+	height: 39%;
+}
+
+}
