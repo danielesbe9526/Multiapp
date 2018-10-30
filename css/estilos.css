@@ -109,8 +109,8 @@ color:#666;
 }
 h1,h2,h3 {
 margin:0 0 25px;
-   text-transform:uppercase;
-  letter-spacing: 15px; 
+  text-transform:uppercase;
+  /* letter-spacing: 15px; */
 }
 
 
@@ -157,7 +157,7 @@ a {
 #main .container .icon-instagram {
 	padding-left: 11%;
 	padding-bottom: 0px;
-	font-size: 95px;
+	font-size: 650%;
 	position: absolute;
 	padding-top: 35%;
 	color: rgba(247,247,247,1.00);
@@ -243,7 +243,7 @@ a {
 
 .element--description,
 .element--hover {
-  text-transform: uppercase;
+  /*text-transform: uppercase;/*
   /*color: #fff;*/
   background-color: #377FBF;
   /*padding: 2rem 4rem;*/
